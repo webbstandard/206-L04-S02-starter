@@ -1,0 +1,14 @@
+body {
+  background: cornflowerblue;
+}
+/* ----------- For screens 768px and larger ----------- */
+@media () {
+	body {
+
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media () {
+
+}
